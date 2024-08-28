@@ -6,11 +6,12 @@ body{
     background-color: palevioletred;
 }
 img{
-    height: 200px;
-    border-radius: 15px;
-    margin: 10px;
-    margin-left: auto;
-    margin-right: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border-radius: 15px;
+
 }
 
 #titulo{
