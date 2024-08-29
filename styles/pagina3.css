@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header,footer{
+    width: 100%;
+    padding: 10px 0px;
+    background-color: palevioletred;
+    color: bisque;
+}
+header h3, header p{
+    margin: 0px 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+main{
+    width: 90%;
+    height: 600px;
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 5px;
+    margin: 10px auto;
+}
+#sobreEmpresa{
+width: 80%;
+float: left;
+text-align: center;
+}
+
+#menuLinks{
+width: 20%;
+float: right;
+background-color: white;
+border-radius: 5px;
+padding: 10px 0px;
+text-align: center;
+}
+
+#sobreEmpresa img{
+    width: 50%;
+    margin: 5px auto;
+}
+

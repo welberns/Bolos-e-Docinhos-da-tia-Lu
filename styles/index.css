@@ -21,6 +21,7 @@ img{
     margin-right: auto;
     padding: 15px;
     border-radius: 15px;
+    text-align: center;
 }
 .subtitulo{
     width: 7%;
@@ -32,6 +33,7 @@ img{
     padding: 15px;
     font-size: 20pt;
     border-radius: 15px;
+    text-align: center;
 }
 .texto{
     width: 50%;
@@ -41,5 +43,6 @@ img{
     padding: 15px;
     font-size: 15pt;
     border-radius: 15px;
+    text-align: center;
 }
 
